@@ -1,0 +1,12 @@
+a {
+  all: unset !important;
+}
+
+a:hover {
+  cursor: pointer !important;
+}
+
+.logo {
+  height: 100px;
+  width: 100px;
+}
