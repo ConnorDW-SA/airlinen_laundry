@@ -11,3 +11,8 @@ a:hover {
   object-fit: contain;
   width: 20%;
 }
+
+.navbar {
+  position: absolute;
+  top: 0;
+}

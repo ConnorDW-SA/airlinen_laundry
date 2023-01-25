@@ -12,7 +12,7 @@ export default function Home() {
       <Navbar />
       <div className="w-100 h-50">
         <img src={mainpic} alt="homepage" className="w-100 mainpic"></img>
-        <div className="d-flex justify-content-around text-center my-5 w-75 mx-auto">
+        <div className="d-flex justify-content-around text-center mt-5 mb-0 pb-0 w-75 mx-auto">
           <div className="">
             <img
               className="icons-text w-50 mb-2"

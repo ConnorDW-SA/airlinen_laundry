@@ -1,9 +1,12 @@
 .mainpic {
-  height: 50vh;
+  height: 30vh;
   width: 100%;
   object-fit: cover;
+  position: absolute;
 }
 
 .icons-text {
   font-size: 1.5rem;
+  position: relative;
+  top: 80vh;
 }
