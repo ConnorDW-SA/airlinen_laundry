@@ -1,6 +1,7 @@
 a {
   all: unset !important;
-  color: #c52026 !important;
+  color: #000000 !important;
+  font-weight: 600 !important;
 }
 
 a:hover {
@@ -10,9 +11,13 @@ a:hover {
 .logo {
   object-fit: contain;
   width: 20%;
+  height: 10vh;
 }
 
 .navbar {
-  position: absolute;
-  top: 0;
+  height: 10vh;
+}
+
+.links-links:hover {
+  border-bottom: 3px solid blue !important;
 }
