@@ -7,17 +7,3 @@ a {
 a:hover {
   cursor: pointer !important;
 }
-
-.logo {
-  object-fit: contain;
-  width: 20%;
-  height: 10vh;
-}
-
-.navbar {
-  height: 10vh;
-}
-
-.links-links:hover {
-  border-bottom: 3px solid blue !important;
-}

@@ -56,6 +56,48 @@ export default function Home() {
       <hr></hr>
       <div>
         <h1>Services we offer</h1>
+        <div className="picture-squares">
+          <div className="square">
+            <img src="https://via.placeholder.com/50 " alt="how it works" />
+            <h2>Wash and Fold</h2>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Temporibus vel excepturi, fuga rem aliquam blanditiis dolore quo,
+              omnis nihil laborum unde odio vero eos assumenda natus quaerat
+              repudiandae voluptatibus voluptatem.
+            </p>
+          </div>
+          <div className="square">
+            <img src="https://via.placeholder.com/50 " alt="how it works" />
+            <h2>Wash and Fold</h2>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Temporibus vel excepturi, fuga rem aliquam blanditiis dolore quo,
+              omnis nihil laborum unde odio vero eos assumenda natus quaerat
+              repudiandae voluptatibus voluptatem.
+            </p>
+          </div>
+          <div className="square">
+            <img src="https://via.placeholder.com/50 " alt="how it works" />
+            <h2>Wash and Fold</h2>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Temporibus vel excepturi, fuga rem aliquam blanditiis dolore quo,
+              omnis nihil laborum unde odio vero eos assumenda natus quaerat
+              repudiandae voluptatibus voluptatem.
+            </p>
+          </div>
+          <div className="square">
+            <img src="https://via.placeholder.com/50 " alt="how it works" />
+            <h2>Wash and Fold</h2>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Temporibus vel excepturi, fuga rem aliquam blanditiis dolore quo,
+              omnis nihil laborum unde odio vero eos assumenda natus quaerat
+              repudiandae voluptatibus voluptatem.
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   );

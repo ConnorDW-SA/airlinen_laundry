@@ -6,6 +6,7 @@ export default function About() {
   return (
     <div>
       <Navbar />
+      <h1> hiiii</h1>
     </div>
   );
 }
