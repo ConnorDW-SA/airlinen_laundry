@@ -11,7 +11,7 @@ export default function Home() {
       <div className="picture-div text-light">
         <img src={mainpic} alt="mainpic" className="mainpic" />
         <div className="main-text">
-          <h1 className="display-4 header-text">
+          <h1 className="display-4 header-text pb-4">
             Quality laundry service <br /> at your fingertips
           </h1>
           <h2>We take care of your laundry</h2>
