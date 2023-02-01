@@ -19,7 +19,7 @@ export default function Home() {
         </div>
       </div>
       <div className="container mt-5">
-        <h1 className="text-center">How it works</h1>
+        <h1 className="text-center april">April Ford</h1>
       </div>
       <div className="d-flex text-center justify-content-around mx-5 mt-5 pt-5">
         <div className="w-25">

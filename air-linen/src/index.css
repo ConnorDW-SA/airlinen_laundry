@@ -1,6 +1,48 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
 
+@font-face {
+  font-family: "Gilmer";
+  src: url("./assets/fonts/GilmerBold.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gilmer";
+  src: url("./assets/fonts/GilmerHeavy.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gilmer";
+  src: url("./assets/fonts/GilmerLight.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gilmer";
+  src: url("./assets/fonts/GilmerMedium.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gilmer";
+  src: url("./assets/fonts/GilmerOutline.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gilmer";
+  src: url("./assets/fonts/GilmerRegular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 .App {
   height: 1800px;
 }

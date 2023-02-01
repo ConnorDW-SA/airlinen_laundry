@@ -7,6 +7,7 @@ import Services from "./components/pages/Services/Services";
 import Contact from "./components/pages/Contact/Contact";
 import Team from "./components/pages/Team/Team";
 import Privacy from "./components/pages/Privacy/Privacy";
+import "./index.css";
 
 function App() {
   return (
