@@ -8,21 +8,5 @@ a:hover {
   cursor: pointer !important;
 }
 
-.phone {
-  object-fit: contain;
-  width: 3vh;
-  height: 3vh;
-}
-
-.navvy {
-  height: 7vh;
-}
-
-.phone-nav {
-  padding-top: 2.6vh;
-  padding-bottom: 2.2vh;
-}
-
-.april {
-  font-family: Gilmer, sans-serif;
+.logo {
 }
