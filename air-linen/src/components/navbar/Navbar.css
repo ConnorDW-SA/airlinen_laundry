@@ -9,4 +9,13 @@ a:hover {
 }
 
 .logo {
+  font-weight: 700;
+  font-size: 3rem;
+  letter-spacing: -4px;
+  font-family: "GilmerBold" !important;
+}
+
+.phone {
+  width: 30px;
+  height: 30px;
 }
