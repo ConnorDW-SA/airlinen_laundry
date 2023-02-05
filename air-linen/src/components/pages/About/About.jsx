@@ -6,6 +6,8 @@ export default function About() {
   return (
     <div>
       <Navbar />
+      <div className="mt-5 pt-5">Fill</div>
+      <Footer />
     </div>
   );
 }

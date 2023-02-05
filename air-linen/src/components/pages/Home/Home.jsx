@@ -17,9 +17,9 @@ export default function Home() {
       <div className="enquire container-fluid ml-5 pl-4 mt-5">
         <p className="enquire-text">
           AirLinen is a growing laundry service that aims to provide only the
-          best service for our clients. <br /> Focused mainly on Airbnb's and
-          hotels, we have quickly expanded to cater to personal laundry needs
-          too.
+          best service for our clients. <br /> Focused mainly on Short term
+          lets, airbnb's, guest houses, hotels, spas and salons, we have quickly
+          expanded to cater for personal laundry needs too.
         </p>
         <a href="/contact">
           <button className="enquire-button">Enquire Now</button>
@@ -29,20 +29,23 @@ export default function Home() {
         <h1 className="text-center mb-5">Services we offer</h1>
         <div className="d-flex w-75 m-auto backgroundpic">
           <img src={mainpic} alt="second" className="pic-dim" />
-          <p className="text-center mt-5 pt-5">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil
-            delectus temporibus, sunt perspiciatis expedita dignissimos labore
-            veniam eum natus quam quidem eaque? Ex esse autem libero iste illo
-            pariatur sit.
-          </p>
+          <div>
+            <h1 className="text-center pt-5 ml-5">Daily Collection Services</h1>
+            <p className="text-center mt-2 pt-5 mx-5">
+              We provide daily collection and dropoff services for all your
+              laundry needs. We operate in and around the City of Cape Town.
+              Simply let us know which location and time suits you!
+            </p>
+          </div>
         </div>
         <div className="d-flex w-75 m-auto backgroundpic">
-          <p className="text-center mt-5 pt-5">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil
-            delectus temporibus, sunt perspiciatis expedita dignissimos labore
-            veniam eum natus quam quidem eaque? Ex esse autem libero iste illo
-            pariatur sit.
-          </p>
+          <div>
+            <h1 className="text-center pt-5 ml-5">Our Laundry guarantee</h1>
+            <p className="text-center mt-2 pt-5 mx-5">
+              We strive to achieve the best quality results for commercial
+              businesses, or for individual customers.
+            </p>
+          </div>
           <img src={ironpic} alt="second" className="pic-dim" />
         </div>
         <div className="fourthPic pic-dim"></div>

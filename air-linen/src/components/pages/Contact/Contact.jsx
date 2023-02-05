@@ -8,6 +8,8 @@ export default function About() {
       <Navbar />
 
       <div className="mt-5 pt-5">Contact us</div>
+      <p>Unit 3, 22 Bermuda Street, Paarden Eiland, Cape Town, 7405</p>
+      <p>airlinenlaundry@gmail.com</p>
       <Footer />
     </div>
   );

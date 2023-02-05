@@ -16,7 +16,7 @@ export default function myNavbar() {
           role="navigation"
           className="d-flex w-50 justify-content-between pt-3"
         >
-          <a href="/about">About</a>
+          {/* <a href="/about">About</a> */}
 
           <a href="/contact">Contact</a>
 
