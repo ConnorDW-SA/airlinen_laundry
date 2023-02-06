@@ -8,7 +8,7 @@ import Footer from "../../navbar/Footer";
 
 export default function Home() {
   return (
-    <div>
+    <div className="d-flex flex-column h-100">
       <Navbar />
       <div className="hero-section mx-5">
         <img src={secondpic} alt="main" className="main-pic" />

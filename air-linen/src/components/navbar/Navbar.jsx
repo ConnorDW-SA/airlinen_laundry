@@ -1,6 +1,6 @@
 import React from "react";
 import "./Navbar.css";
-import { Navbar, Nav } from "react-bootstrap";
+import { Navbar } from "react-bootstrap";
 import phone from "../../assets/phone.png";
 
 export default function myNavbar() {
@@ -16,10 +16,7 @@ export default function myNavbar() {
           role="navigation"
           className="d-flex w-50 justify-content-between pt-3"
         >
-          {/* <a href="/about">About</a> */}
-
           <a href="/contact">Contact</a>
-
           <a href="/privacy-policy">Privacy Policy</a>
           <a href="tel:+27791116858">
             <img src={phone} alt="phone" className="phone"></img> | +(27) 079

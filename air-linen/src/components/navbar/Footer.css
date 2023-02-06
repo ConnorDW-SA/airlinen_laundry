@@ -2,4 +2,10 @@
   background-color: #fbf7ef;
   border-top: 2px solid black;
   bottom: 0;
+  font-size: 0.8rem;
+}
+
+.phone {
+  width: 15px;
+  height: 15px;
 }
