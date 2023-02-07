@@ -24,7 +24,9 @@ export default function Home() {
           expanded to cater for personal laundry needs too.
         </p>
         <a href="/contact">
-          <button className="enquire-button">Enquire Now</button>
+          <button className="enquire-button">
+            <p className="py-2">Enquire Now</p>
+          </button>
         </a>
       </div>
       <div className="services container-fluid my-5">
