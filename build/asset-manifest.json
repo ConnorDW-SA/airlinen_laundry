@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d27cba2.css",
-    "main.js": "/static/js/main.07689410.js",
+    "main.css": "/static/css/main.e1ed565a.css",
+    "main.js": "/static/js/main.a780eabf.js",
     "static/media/irontowels.jpg": "/static/media/irontowels.dfad7b03a2b4fb1ab07b.jpg",
     "static/media/secondmain.jpg": "/static/media/secondmain.d45249f58a24a755f341.jpg",
     "static/media/GilmerOutline.otf": "/static/media/GilmerOutline.f022603f5aad9f480f32.otf",
@@ -12,11 +12,11 @@
     "static/media/GilmerHeavy.otf": "/static/media/GilmerHeavy.15c37038b9924d7da58c.otf",
     "static/media/GilmerLight.otf": "/static/media/GilmerLight.79ad87da5f186ef4527f.otf",
     "index.html": "/index.html",
-    "main.3d27cba2.css.map": "/static/css/main.3d27cba2.css.map",
-    "main.07689410.js.map": "/static/js/main.07689410.js.map"
+    "main.e1ed565a.css.map": "/static/css/main.e1ed565a.css.map",
+    "main.a780eabf.js.map": "/static/js/main.a780eabf.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d27cba2.css",
-    "static/js/main.07689410.js"
+    "static/css/main.e1ed565a.css",
+    "static/js/main.a780eabf.js"
   ]
 }
