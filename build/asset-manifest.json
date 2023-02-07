@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d27cba2.css",
+    "main.js": "/static/js/main.07689410.js",
+    "static/media/irontowels.jpg": "/static/media/irontowels.dfad7b03a2b4fb1ab07b.jpg",
+    "static/media/secondmain.jpg": "/static/media/secondmain.d45249f58a24a755f341.jpg",
+    "static/media/GilmerOutline.otf": "/static/media/GilmerOutline.f022603f5aad9f480f32.otf",
+    "static/media/mainpic.jpg": "/static/media/mainpic.da1337fbef54e3f1c74e.jpg",
+    "static/media/GilmerRegular.otf": "/static/media/GilmerRegular.fc8ac2cfa82256e66797.otf",
+    "static/media/GilmerBold.otf": "/static/media/GilmerBold.0a6a71be83bb0d096bf8.otf",
+    "static/media/GilmerMedium.otf": "/static/media/GilmerMedium.eb4f5ee9778460bd3d2c.otf",
+    "static/media/GilmerHeavy.otf": "/static/media/GilmerHeavy.15c37038b9924d7da58c.otf",
+    "static/media/GilmerLight.otf": "/static/media/GilmerLight.79ad87da5f186ef4527f.otf",
+    "index.html": "/index.html",
+    "main.3d27cba2.css.map": "/static/css/main.3d27cba2.css.map",
+    "main.07689410.js.map": "/static/js/main.07689410.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d27cba2.css",
+    "static/js/main.07689410.js"
+  ]
+}

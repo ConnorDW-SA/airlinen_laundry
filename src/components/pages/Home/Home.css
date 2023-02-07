@@ -25,6 +25,7 @@
   height: 7vh;
   width: 18vh;
   font-size: 1.3rem;
+  text-overflow: clip;
 }
 
 .enquire-button:hover {
