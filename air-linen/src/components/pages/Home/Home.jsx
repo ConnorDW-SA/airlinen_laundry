@@ -32,8 +32,8 @@ export default function Home() {
         <div className="d-lg-flex d-md-block w-75 m-auto backgroundpic">
           <img src={mainpic} alt="second" className="pic-dim" />
           <div>
-            <h1 className="text-left pt-5 ml-5">Daily Collection Services</h1>
-            <p className="text-left mt-2 pt-5 mx-5 pb-4">
+            <h1 className="text-left pt-5 ml-3">Daily Collection Services</h1>
+            <p className="text-left mt-2 pt-5 mx-3 pb-4">
               We provide daily collection and dropoff services for all your
               laundry needs. We operate in and around the City of Cape Town.
               Simply let us know which location and time suits you!
@@ -42,8 +42,8 @@ export default function Home() {
         </div>
         <div className="d-lg-flex d-md-block w-75 m-auto backgroundpic">
           <div>
-            <h1 className="text-left pt-5 ml-5">Our Laundry guarantee</h1>
-            <p className="text-left mt-2 pt-5 mx-5">
+            <h1 className="text-left pt-5 ml-3">Our Laundry guarantee</h1>
+            <p className="text-left mt-2 pt-5 mx-3">
               We strive to achieve the best quality results for commercial
               businesses, or for individual customers.
             </p>

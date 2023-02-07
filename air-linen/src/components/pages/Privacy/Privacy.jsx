@@ -7,7 +7,7 @@ export default function Privacy() {
   return (
     <div className="d-flex flex-column h-100">
       <Navbar />
-      <div className="privacy-content w-50 mx-auto my-5 mx-5 px-5">
+      <div className="privacy-content my-5">
         <h1 className="mt-5 pt-5">PRIVACY POLICY</h1>{" "}
         <p className="text-muted pt-2">
           It is of the utmost importance for us to protect the privacy and

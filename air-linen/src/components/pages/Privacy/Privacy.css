@@ -1,4 +1,15 @@
 .privacy-content {
   text-align: center;
   align-items: center;
+  margin-left: 25vw;
+  margin-right: 25vw;
+}
+
+@media screen and (max-width: 991px) {
+  .privacy-content {
+    text-align: left;
+    align-items: left;
+    margin-left: 5vw !important;
+    padding-left: 5vw !important;
+  }
 }
