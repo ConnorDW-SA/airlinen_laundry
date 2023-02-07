@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { faPhone } from "@fortawesome/free-solid-svg-icons";
 import Home from "./components/pages/Home/Home";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Contact from "./components/pages/Contact/Contact";
